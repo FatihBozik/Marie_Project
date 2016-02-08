@@ -1,11 +1,6 @@
 ######Bilgisayar Organizasyonu ve Tasarımı Dersi Proje Ödevi
 ######-Marie Simülatörü-
 
-**Projede Görev Alanlar** <br/>
-*	Kübra Açıkgöz   	
-*	Ahmet Eroğlu       
-*	Fatih Bozik			   
-
 **Simülatör Hakkında** <br/>
 C# dili ile hazırlanmıştır.<br/>
 Etiketler virgül ile birlikte kullanılmalı. <br/>
